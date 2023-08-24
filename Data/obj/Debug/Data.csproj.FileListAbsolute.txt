@@ -1,0 +1,15 @@
+C:\Users\DEVELOPER\source\repos\Practice\Data\bin\Debug\Data.dll
+C:\Users\DEVELOPER\source\repos\Practice\Data\bin\Debug\Data.pdb
+C:\Users\DEVELOPER\source\repos\Practice\Data\bin\Debug\linq2db.dll
+C:\Users\DEVELOPER\source\repos\Practice\Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DEVELOPER\source\repos\Practice\Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DEVELOPER\source\repos\Practice\Data\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DEVELOPER\source\repos\Practice\Data\bin\Debug\linq2db.xml
+C:\Users\DEVELOPER\source\repos\Practice\Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DEVELOPER\source\repos\Practice\Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DEVELOPER\source\repos\Practice\Data\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DEVELOPER\source\repos\Practice\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\DEVELOPER\source\repos\Practice\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\DEVELOPER\source\repos\Practice\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\DEVELOPER\source\repos\Practice\Data\obj\Debug\Data.dll
+C:\Users\DEVELOPER\source\repos\Practice\Data\obj\Debug\Data.pdb

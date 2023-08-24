@@ -1,0 +1,17 @@
+C:\Users\DEVELOPER\source\repos\Practice\Logica\bin\Debug\Logica.dll
+C:\Users\DEVELOPER\source\repos\Practice\Logica\bin\Debug\Logica.pdb
+C:\Users\DEVELOPER\source\repos\Practice\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\DEVELOPER\source\repos\Practice\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\DEVELOPER\source\repos\Practice\Logica\obj\Debug\Logica.dll
+C:\Users\DEVELOPER\source\repos\Practice\Logica\obj\Debug\Logica.pdb
+C:\Users\DEVELOPER\source\repos\Practice\Logica\bin\Debug\Data.dll
+C:\Users\DEVELOPER\source\repos\Practice\Logica\bin\Debug\linq2db.dll
+C:\Users\DEVELOPER\source\repos\Practice\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DEVELOPER\source\repos\Practice\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DEVELOPER\source\repos\Practice\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DEVELOPER\source\repos\Practice\Logica\bin\Debug\Data.pdb
+C:\Users\DEVELOPER\source\repos\Practice\Logica\bin\Debug\linq2db.xml
+C:\Users\DEVELOPER\source\repos\Practice\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DEVELOPER\source\repos\Practice\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DEVELOPER\source\repos\Practice\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DEVELOPER\source\repos\Practice\Logica\obj\Debug\Logica.csproj.CopyComplete
